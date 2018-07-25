@@ -8,4 +8,4 @@ elsif  number % 3 == 0 && number % 5 == 0
 end
 end 
 
-fizzbuzz(15)
+puts fizzbuzz(15)
