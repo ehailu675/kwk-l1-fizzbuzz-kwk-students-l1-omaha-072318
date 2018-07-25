@@ -7,5 +7,3 @@ else  (number % 3 == 0) && (number % 5 == 0)
   "FizzBuzz"
 end
 end 
-
-puts fizzbuzz(15)
