@@ -1,3 +1,3 @@
 def  fizzbuzz
-fizz_3 = fizzbuzz(3)
+do fizz_3 = fizzbuzz(3)
 end 
