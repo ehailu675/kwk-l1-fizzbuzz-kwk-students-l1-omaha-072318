@@ -5,4 +5,5 @@ elsif number % 5 == 0
   "Buzz"
 elsif number % 5 == 0 && number % 3 == 0
   "FizzBuzz"
+end
 end 
