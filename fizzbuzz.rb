@@ -1,3 +1,5 @@
-def  fizzbuzz
-do fizz_3 = fizzbuzz(3)
+def  fizzbuzz(number)
+if number % 3 == 0
+  "Fizz"
+if 
 end 
